@@ -1,5 +1,69 @@
 [
   {
+    "title": "The Greatest Miracle in the World",
+    "authors": [
+      "Og Mandino"
+    ],
+    "publisher": "Bantam",
+    "publishedDate": "2009-09-30",
+    "description": "For the millions who have embraced Og Mandino's classic, The Greatest Salesman in the World, here is his new book, which contains the amazing Memorandum from God . . . to you. A great inspirational writer tells his greatest story—an amazing narrative that will hold you spellbound . . . as it reveals exciting new secrets for your personal happiness and success. Here is a simple but powerful story that will affect your thoughts and actions long after the final sentence has touched your heart. You will never forget: • The four simple rules that can help you perform a miracle in your life • The glass geranium that will break your heart • The dingy parking lot where Mandino's life, and yours, begins again • The ragpicker who rescues humans after they quit on themselves • The secret of regaining the self-esteem you have lost “A work that will lift the mind and heart of every reader!”—Norman Vincent Peale",
+    "image": "http://books.google.com/books/content?id=bG0tSJDUxgcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "un",
+    "averageRating": 4.5,
+    "ratingsCount": 17,
+    "categories": [
+      "Religion"
+    ],
+    "pageCount": 128,
+    "isbn10": "0307420647",
+    "isbn13": "9780307420640",
+    "googleBooks": {
+      "id": "bG0tSJDUxgcC",
+      "preview": "http://books.google.com/books?id=bG0tSJDUxgcC&printsec=frontcover&dq=intitle:The+Greatest+Salesman+In+the+World+by+Og+Mandino&hl=&cd=7&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=bG0tSJDUxgcC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=bG0tSJDUxgcC"
+    },
+    "issueNumber": 12,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2021-06-21T14:03:21.000Z",
+    "completedAt": "2021-06-21T14:03:37.000Z",
+    "timeToComplete": 16000,
+    "timeToCompleteFormatted": "16 seconds"
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "authors": [
+      "Stephen R. Covey"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2004",
+    "description": "A leading management consultant outlines seven organizational rules for improving effectiveness and increasing productivity at work and at home.",
+    "image": "http://books.google.com/books/content?id=upUxaNWSaRIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "un",
+    "averageRating": 4.5,
+    "ratingsCount": 23,
+    "categories": [
+      "Self-Help"
+    ],
+    "pageCount": 372,
+    "isbn10": "0743272455",
+    "isbn13": "9780743272452",
+    "googleBooks": {
+      "id": "upUxaNWSaRIC",
+      "preview": "http://books.google.com/books?id=upUxaNWSaRIC&printsec=frontcover&dq=intitle:The+7+Habits+of+Highly+Effective+People+by+Stephen+Covey&hl=&cd=7&source=gbs_api",
+      "info": "http://books.google.com/books?id=upUxaNWSaRIC&dq=intitle:The+7+Habits+of+Highly+Effective+People+by+Stephen+Covey&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_7_Habits_of_Highly_Effective_People.html?hl=&id=upUxaNWSaRIC"
+    },
+    "issueNumber": 11,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2021-06-21T14:02:35.000Z",
+    "completedAt": "2021-06-21T14:03:37.000Z",
+    "timeToComplete": 62000,
+    "timeToCompleteFormatted": "1 minute"
+  },
+  {
     "title": "The 4-hour Workweek",
     "authors": [
       "Timothy Ferriss"
@@ -25,8 +89,11 @@
     },
     "issueNumber": 10,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-06-21T14:02:18.000Z"
+    "state": "completed",
+    "startedAt": "2021-06-21T14:02:18.000Z",
+    "completedAt": "2021-06-21T14:03:37.000Z",
+    "timeToComplete": 79000,
+    "timeToCompleteFormatted": "1 minute"
   },
   {
     "title": "Outliers",
@@ -54,8 +121,11 @@
     },
     "issueNumber": 9,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-06-21T14:01:42.000Z"
+    "state": "completed",
+    "startedAt": "2021-06-21T14:01:42.000Z",
+    "completedAt": "2021-06-21T14:03:36.000Z",
+    "timeToComplete": 114000,
+    "timeToCompleteFormatted": "1 minute"
   },
   {
     "title": "Rich Dad, Poor Dad",
@@ -84,8 +154,11 @@
     },
     "issueNumber": 8,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-06-21T14:01:17.000Z"
+    "state": "completed",
+    "startedAt": "2021-06-21T14:01:17.000Z",
+    "completedAt": "2021-06-21T14:03:36.000Z",
+    "timeToComplete": 139000,
+    "timeToCompleteFormatted": "2 minutes"
   },
   {
     "title": "1984",
@@ -114,8 +187,11 @@
     },
     "issueNumber": 7,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-06-21T14:00:56.000Z"
+    "state": "completed",
+    "startedAt": "2021-06-21T14:00:56.000Z",
+    "completedAt": "2021-06-21T14:03:36.000Z",
+    "timeToComplete": 160000,
+    "timeToCompleteFormatted": "2 minutes"
   },
   {
     "title": "How to Win Friends and Influence People",
@@ -139,8 +215,11 @@
     },
     "issueNumber": 6,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-06-21T14:00:33.000Z"
+    "state": "completed",
+    "startedAt": "2021-06-21T14:00:33.000Z",
+    "completedAt": "2021-06-21T14:03:36.000Z",
+    "timeToComplete": 183000,
+    "timeToCompleteFormatted": "3 minutes"
   },
   {
     "title": "The Design of Everyday Things",
@@ -168,8 +247,11 @@
     },
     "issueNumber": 5,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-06-21T14:00:17.000Z"
+    "state": "completed",
+    "startedAt": "2021-06-21T14:00:17.000Z",
+    "completedAt": "2021-06-21T14:03:36.000Z",
+    "timeToComplete": 199000,
+    "timeToCompleteFormatted": "3 minutes"
   },
   {
     "title": "Think and Grow Rich",
@@ -198,8 +280,11 @@
     },
     "issueNumber": 4,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-06-21T14:00:00.000Z"
+    "state": "completed",
+    "startedAt": "2021-06-21T14:00:00.000Z",
+    "completedAt": "2021-06-21T14:03:36.000Z",
+    "timeToComplete": 216000,
+    "timeToCompleteFormatted": "3 minutes"
   },
   {
     "title": "Zero to One",
@@ -228,8 +313,11 @@
     },
     "issueNumber": 3,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-06-21T13:59:26.000Z"
+    "state": "completed",
+    "startedAt": "2021-06-21T13:59:26.000Z",
+    "completedAt": "2021-06-21T14:03:36.000Z",
+    "timeToComplete": 250000,
+    "timeToCompleteFormatted": "4 minutes"
   },
   {
     "title": "Tuesdays with Morrie",
@@ -257,8 +345,11 @@
     },
     "issueNumber": 2,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-06-21T13:58:49.000Z"
+    "state": "completed",
+    "startedAt": "2021-06-21T13:58:49.000Z",
+    "completedAt": "2021-06-21T14:03:35.000Z",
+    "timeToComplete": 286000,
+    "timeToCompleteFormatted": "4 minutes"
   },
   {
     "title": "Book Club",
@@ -285,7 +376,10 @@
     },
     "issueNumber": 1,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-06-21T13:57:27.000Z"
+    "state": "completed",
+    "startedAt": "2021-06-21T13:57:27.000Z",
+    "completedAt": "2021-06-21T14:03:35.000Z",
+    "timeToComplete": 368000,
+    "timeToCompleteFormatted": "6 minutes"
   }
 ]
