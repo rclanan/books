@@ -1,5 +1,33 @@
 [
   {
+    "title": "The Art of War",
+    "authors": [
+      "Sun Tzu"
+    ],
+    "publishedDate": "2017-04-07",
+    "description": "An ancient Chinese treatise on the strategies of war stresses the importance of speed, sound tactics, subterfuge, discipline, appropriate form of attack, and accurate intelligence.",
+    "image": "http://books.google.com/books/content?id=RfydswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "un",
+    "averageRating": 4,
+    "ratingsCount": 1,
+    "categories": [
+      "Military art and science"
+    ],
+    "pageCount": 40,
+    "isbn10": "1545211957",
+    "isbn13": "9781545211953",
+    "googleBooks": {
+      "id": "RfydswEACAAJ",
+      "preview": "http://books.google.com/books?id=RfydswEACAAJ&dq=intitle:The+Art+of+War+by+Sun+Tzu&hl=&cd=7&source=gbs_api",
+      "info": "http://books.google.com/books?id=RfydswEACAAJ&dq=intitle:The+Art+of+War+by+Sun+Tzu&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Art_of_War.html?hl=&id=RfydswEACAAJ"
+    },
+    "issueNumber": 20,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-06-21T14:09:49.000Z"
+  },
+  {
     "title": "Mindfulness in Plain English",
     "authors": [
       "Bhante Gunaratana",
