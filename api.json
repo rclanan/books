@@ -1,5 +1,35 @@
 [
   {
+    "title": "Mindfulness in Plain English",
+    "authors": [
+      "Bhante Gunaratana",
+      "Henepola Gunaratana"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2011-09-06",
+    "description": "Presents an introduction to meditation according to Buddhist principles, describing the advantages of the practice and addressing some of the difficulties that can come up.",
+    "image": "http://books.google.com/books/content?id=nY9j66he0NkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "un",
+    "averageRating": 4.5,
+    "ratingsCount": 13,
+    "categories": [
+      "Philosophy"
+    ],
+    "pageCount": 224,
+    "isbn10": "0861719069",
+    "isbn13": "9780861719068",
+    "googleBooks": {
+      "id": "nY9j66he0NkC",
+      "preview": "http://books.google.com/books?id=nY9j66he0NkC&printsec=frontcover&dq=intitle:Mindfulness+in+Plain+English+by+Bhante+Gunaratan&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=nY9j66he0NkC&dq=intitle:Mindfulness+in+Plain+English+by+Bhante+Gunaratan&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Mindfulness_in_Plain_English.html?hl=&id=nY9j66he0NkC"
+    },
+    "issueNumber": 18,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-06-21T14:09:08.000Z"
+  },
+  {
     "title": "The Confidence Gap",
     "authors": [
       "Russ Harris"
