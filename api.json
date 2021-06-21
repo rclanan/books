@@ -1,290 +1,30 @@
 [
   {
-    "title": "Getting Things Done",
+    "title": "Book Club",
     "authors": [
-      "David Allen"
+      "Bill Barnes",
+      "Gene Ambaum"
     ],
-    "publisher": "Penguin",
-    "publishedDate": "2001",
-    "description": "ALLEN/GETTING THINGS DONE",
-    "image": "http://books.google.com/books/content?id=WXcHwzaUd4MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publisher": "Overdue Media Llc",
+    "publishedDate": "2006",
+    "description": "A collection of the comic strip \"Unshelved,\" which chronicles the adventures of Dewey, Mallville Public Library's young adult librarian, and his coworkers.",
+    "image": "http://books.google.com/books/content?id=H2hQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "language": "en",
     "averageRating": 4,
-    "ratingsCount": 149,
+    "ratingsCount": 6,
     "categories": [
-      "Business & Economics"
+      "Humor"
     ],
-    "pageCount": 267,
-    "isbn10": "0142000280",
-    "isbn13": "9780142000281",
+    "pageCount": 120,
     "googleBooks": {
-      "id": "WXcHwzaUd4MC",
-      "preview": "http://books.google.com/books?id=WXcHwzaUd4MC&printsec=frontcover&dq=intitle:Getting+Things+Done+by+David+Allen&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=WXcHwzaUd4MC&dq=intitle:Getting+Things+Done+by+David+Allen&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Getting_Things_Done.html?hl=&id=WXcHwzaUd4MC"
+      "id": "H2hQAAAAMAAJ",
+      "preview": "http://books.google.com/books?id=H2hQAAAAMAAJ&q=intitle:Book+cover+of+Getting+Things+Done+by+David+Allen&dq=intitle:Book+cover+of+Getting+Things+Done+by+David+Allen&hl=&cd=7&source=gbs_api",
+      "info": "http://books.google.com/books?id=H2hQAAAAMAAJ&dq=intitle:Book+cover+of+Getting+Things+Done+by+David+Allen&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Book_Club.html?hl=&id=H2hQAAAAMAAJ"
     },
-    "issueNumber": 34,
+    "issueNumber": 1,
     "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2021-02-14T16:39:23.000Z",
-    "completedAt": "2021-02-14T16:42:57.000Z",
-    "timeToComplete": 214000,
-    "timeToCompleteFormatted": "3 minutes"
-  },
-   {
-    "title": "Tuesdays with Morrie",
-    "authors": [
-      "Mitch Albom"
-    ],
-    "publisher": "Broadway Books",
-    "publishedDate": "2007-06-29",
-    "description": "A special 20th anniversary edition of the beloved international bestseller that changed millions of lives Maybe it was a grandparent, or a teacher, or a colleague. Someone older, patient and wise, who understood you when you were young and searching, helped you see the world as a more profound place, gave you sound advice to help you make your way through it. For Mitch Albom, that person was Morrie Schwartz, his college professor from nearly twenty years ago. Maybe, like Mitch, you lost track of this mentor as you made your way, and the insights faded, and the world seemed colder. Wouldn't you like to see that person again, ask the bigger questions that still haunt you, receive wisdom for your busy life today the way you once did when you were younger? Mitch Albom had that second chance. He reconnected with Morrie in the last months of the older man's life. Knowing he was dying, Morrie visited with Mitch in his study every Tuesday, just as they used to back in college. Their rekindled relationship turned into one final \"class:\" lessons in how to live. Tuesdays with Morrie is a magical chronicle of their time together, through which Mitch shares Morrie's lasting gift with the world.",
-    "image": "http://books.google.com/books/content?id=z2z_6hLoPmgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 263,
-    "categories": [
-      "Biography & Autobiography"
-    ],
-    "pageCount": 224,
-    "isbn10": "0307414094",
-    "isbn13": "9780307414090",
-    "googleBooks": {
-      "id": "z2z_6hLoPmgC",
-      "preview": "http://books.google.com/books?id=z2z_6hLoPmgC&printsec=frontcover&dq=intitle:Tuesdays+with+Morrie+by+Mitch+Albom&hl=&cd=2&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=z2z_6hLoPmgC&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=z2z_6hLoPmgC"
-    },
-    "issueNumber": 25,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2021-02-14T16:34:38.000Z",
-    "completedAt": "2021-02-14T16:42:56.000Z",
-    "timeToComplete": 498000,
-    "timeToCompleteFormatted": "8 minutes"
-  },
-  {
-    "title": "Think and Grow Rich",
-    "authors": [
-      "Arthur R. Pell",
-      "Napoleon Hill"
-    ],
-    "publishedDate": "2005",
-    "description": "This all-time classic has sold more copies around the world and been responsible for the creation of more millionaires, than any other book in history. It's the result of 25 years of extensive research into the secret of 504 of the world's wealthiest people. Make no mistake; there is a secret to great wealth! The secret is so simple anyone can use it to become fabulously wealthy and successful in their chosen field. Are you ready to receive it?",
-    "image": "http://books.google.com/books/content?id=rYJaPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 28,
-    "categories": [
-      "Conduct of life"
-    ],
-    "pageCount": 355,
-    "isbn10": "0975601466",
-    "isbn13": "9780975601464",
-    "googleBooks": {
-      "id": "rYJaPwAACAAJ",
-      "preview": "http://books.google.com/books?id=rYJaPwAACAAJ&dq=intitle:Think+and+Grow+Rich+by+Napoleon+Hill&hl=&cd=6&source=gbs_api",
-      "info": "http://books.google.com/books?id=rYJaPwAACAAJ&dq=intitle:Think+and+Grow+Rich+by+Napoleon+Hill&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Think_and_Grow_Rich.html?hl=&id=rYJaPwAACAAJ"
-    },
-    "issueNumber": 21,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2021-02-14T16:33:57.000Z",
-    "completedAt": "2021-02-14T16:42:55.000Z",
-    "timeToComplete": 538000,
-    "timeToCompleteFormatted": "8 minutes"
-  },
-  {
-    "title": "The Design of Everyday Things",
-    "authors": [
-      "Donald A. Norman"
-    ],
-    "publishedDate": "2013",
-    "description": "\"Even the smartest among us can feel inept as we fail to figure out which light switch or oven burner to turn on, or whether to push, pull, or slide a door. The fault, argues this ingenious-even liberating-book, lies not in ourselves, but in product design that ignores the needs of users and the principles of cognitive psychology. The problems range from ambiguous and hidden controls to arbitrary relationships between controls and functions, coupled with a lack of feedback or other assistance and unreasonable demands on memorization. The Design of Everyday Things shows that good, usable design is possible. The rules are simple: make things visible, exploit natural relationships that couple function and control, and make intelligent use of constraints. The goal: guide the user effortlessly to the right action on the right control at the right time. In this entertaining and insightful analysis, cognitive scientist Don Norman hails excellence of design as the most important key to regaining the competitive edge in influencing consumer behavior. Now fully expanded and updated, with a new introduction by the author, The Design of Everyday Things is a powerful primer on how-and why-some products satisfy customers while others only frustrate them. \".",
-    "image": "http://books.google.com/books/content?id=heCtnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 38,
-    "categories": [
-      "Design"
-    ],
-    "pageCount": 368,
-    "isbn10": "0262525674",
-    "isbn13": "9780262525671",
-    "googleBooks": {
-      "id": "heCtnQEACAAJ",
-      "preview": "http://books.google.com/books?id=heCtnQEACAAJ&dq=intitle:The+Design+of+Everyday+Things+by+Don+Norman&hl=&cd=2&source=gbs_api",
-      "info": "http://books.google.com/books?id=heCtnQEACAAJ&dq=intitle:The+Design+of+Everyday+Things+by+Don+Norman&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Design_of_Everyday_Things.html?hl=&id=heCtnQEACAAJ"
-    },
-    "issueNumber": 20,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2021-02-14T16:33:46.000Z",
-    "completedAt": "2021-02-14T16:42:55.000Z",
-    "timeToComplete": 549000,
-    "timeToCompleteFormatted": "9 minutes"
-  },
-  {
-    "title": "How To Win Friends and Influence People",
-    "authors": [
-      "Dale Carnegie"
-    ],
-    "publisher": "Simon and Schuster",
-    "publishedDate": "2010-08-24",
-    "description": "You can go after the job you want—and get it! You can take the job you have—and improve it! You can take any situation—and make it work for you! Dale Carnegie’s rock-solid, time-tested advice has carried countless people up the ladder of success in their business and personal lives. One of the most groundbreaking and timeless bestsellers of all time, How to Win Friends & Influence People will teach you: -Six ways to make people like you -Twelve ways to win people to your way of thinking -Nine ways to change people without arousing resentment And much more! Achieve your maximum potential—a must-read for the twenty-first century with more than 15 million copies sold!",
-    "image": "http://books.google.com/books/content?id=1rW-QpIAs8UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 3902,
-    "categories": [
-      "Self-Help"
-    ],
-    "pageCount": 320,
-    "isbn10": "145162171X",
-    "isbn13": "9781451621716",
-    "googleBooks": {
-      "id": "1rW-QpIAs8UC",
-      "preview": "http://books.google.com/books?id=1rW-QpIAs8UC&printsec=frontcover&dq=intitle:How+to+Win+Friends+and+Influence+People+by+Dale+Carnegie&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=1rW-QpIAs8UC&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=1rW-QpIAs8UC"
-    },
-    "issueNumber": 19,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2021-02-14T16:33:38.000Z",
-    "completedAt": "2021-02-14T16:42:55.000Z",
-    "timeToComplete": 557000,
-    "timeToCompleteFormatted": "9 minutes"
-  },
-  {
-    "title": "1984",
-    "authors": [
-      "George Orwell"
-    ],
-    "publisher": "Univ. Press of Mississippi",
-    "publishedDate": "1977",
-    "description": "Portrays life in a future time when a totalitarian government watches over all citizens and directs all activities.",
-    "image": "http://books.google.com/books/content?id=yxv1LK5gyV4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 2320,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 328,
-    "isbn10": "0451524934",
-    "isbn13": "9780451524935",
-    "googleBooks": {
-      "id": "yxv1LK5gyV4C",
-      "preview": "http://books.google.com/books?id=yxv1LK5gyV4C&dq=intitle:1984+by+George+Orwell&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=yxv1LK5gyV4C&dq=intitle:1984+by+George+Orwell&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/1984.html?hl=&id=yxv1LK5gyV4C"
-    },
-    "issueNumber": 16,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2021-02-14T16:32:25.000Z",
-    "completedAt": "2021-02-14T16:42:55.000Z",
-    "timeToComplete": 630000,
-    "timeToCompleteFormatted": "10 minutes"
-  },
- 
-  {
-    "title": "Rich Dad, Poor Dad",
-    "authors": [
-      "Robert T. Kiyosaki"
-    ],
-    "publisher": "Scribl",
-    "publishedDate": "2019-05-25",
-    "description": "In Rich Dad Poor Dad, the #1 Personal Finance book of all time, Robert Kiyosaki shares the story of his two dad: his real father, whom he calls his poor dad,’ and the father of his best friend, the man who became his mentor and his rich dad.’ One man was well educated and an employee all his life, the other’s education was street smarts” over traditional classroom education and he took the path of entrepreneurship a road that led him to become one of the wealthiest men in Hawaii. Robert’s poor dad struggled financially all his life, and these two dads these very different points of view of money, investing, and employment shaped Robert’s thinking about money.Robert has challenged and changed the way tens of millions of people, around the world, think about money and investing and he has become a global advocate for financial education and the path to financial freedom. Rich Dad Poor Dad (and the Rich Dad series it spawned) has sold over 36 million copies in English and translated editions around the world.Rich Dad Poor Dad will explode the myth that you need to earn a high income to become rich challenge the belief that your house is an asset show parents why they can’t rely on the school system to teach their kidsabout money define, once and for all, an asset and a liability explain the difference between good debt and bad debt teach you to see the world of money from different perspectives discuss the shift in mindset that can put you on the road to financial freedom",
-    "image": "http://books.google.com/books/content?id=Cx6aDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 85,
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 104,
-    "isbn10": "1365108104",
-    "isbn13": "9781365108105",
-    "googleBooks": {
-      "id": "Cx6aDwAAQBAJ",
-      "preview": "http://books.google.com/books?id=Cx6aDwAAQBAJ&printsec=frontcover&dq=intitle:Rich+Dad,+Poor+Dad+by+Robert+Kiyosaki&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=Cx6aDwAAQBAJ&dq=intitle:Rich+Dad,+Poor+Dad+by+Robert+Kiyosaki&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Rich_Dad_Poor_Dad.html?hl=&id=Cx6aDwAAQBAJ"
-    },
-    "issueNumber": 13,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2021-02-14T16:31:49.000Z",
-    "completedAt": "2021-02-14T16:42:54.000Z",
-    "timeToComplete": 665000,
-    "timeToCompleteFormatted": "11 minutes"
-  },
-  {
-    "title": "Outliers",
-    "authors": [
-      "Malcolm Gladwell"
-    ],
-    "publisher": "Little, Brown",
-    "publishedDate": "2008-11-18",
-    "description": "Learn what sets high achievers apart -- from Bill Gates to the Beatles -- in this #1 bestseller from \"a singular talent\" (New York Times Book Review). In this stunning book, Malcolm Gladwell takes us on an intellectual journey through the world of \"outliers\"--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different? His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band. Brilliant and entertaining, Outliers is a landmark work that will simultaneously delight and illuminate.",
-    "image": "http://books.google.com/books/content?id=3NSImqqnxnkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 4284,
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 320,
-    "isbn10": "0316040347",
-    "isbn13": "9780316040341",
-    "googleBooks": {
-      "id": "3NSImqqnxnkC",
-      "preview": "http://books.google.com/books?id=3NSImqqnxnkC&printsec=frontcover&dq=intitle:Outliers+by+Malcolm+Gladwell&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=3NSImqqnxnkC&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=3NSImqqnxnkC"
-    },
-    "issueNumber": 11,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2021-02-14T16:29:36.000Z",
-    "completedAt": "2021-02-14T16:42:54.000Z",
-    "timeToComplete": 798000,
-    "timeToCompleteFormatted": "13 minutes"
-  },
-  {
-    "title": "Sapiens",
-    "authors": [
-      "Yuval Noah Harari"
-    ],
-    "publisher": "Harper Collins",
-    "publishedDate": "2015-02-10",
-    "description": "New York Times Bestseller A Summer Reading Pick for President Barack Obama, Bill Gates, and Mark Zuckerberg From a renowned historian comes a groundbreaking narrative of humanity’s creation and evolution—a #1 international bestseller—that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be “human.” One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one—homo sapiens. What happened to the others? And what may happen to us? Most books about the history of humanity pursue either a historical or a biological approach, but Dr. Yuval Noah Harari breaks the mold with this highly original book that begins about 70,000 years ago with the appearance of modern cognition. From examining the role evolving humans have played in the global ecosystem to charting the rise of empires, Sapiens integrates history and science to reconsider accepted narratives, connect past developments with contemporary concerns, and examine specific events within the context of larger ideas. Dr. Harari also compels us to look ahead, because over the last few decades humans have begun to bend laws of natural selection that have governed life for the past four billion years. We are acquiring the ability to design not only the world around us, but also ourselves. Where is this leading us, and what do we want to become? Featuring 27 photographs, 6 maps, and 25 illustrations/diagrams, this provocative and insightful work is sure to spark debate and is essential reading for aficionados of Jared Diamond, James Gleick, Matt Ridley, Robert Wright, and Sharon Moalem.",
-    "image": "http://books.google.com/books/content?id=FmyBAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 97,
-    "categories": [
-      "Science"
-    ],
-    "pageCount": 464,
-    "isbn10": "0062316109",
-    "isbn13": "9780062316103",
-    "googleBooks": {
-      "id": "FmyBAwAAQBAJ",
-      "preview": "http://books.google.com/books?id=FmyBAwAAQBAJ&printsec=frontcover&dq=intitle:Sapiens+by+Yuval+Noah+Harari&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=FmyBAwAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=FmyBAwAAQBAJ"
-    },
-    "issueNumber": 10,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2021-02-14T16:29:26.000Z",
-    "completedAt": "2021-02-14T16:42:54.000Z",
-    "timeToComplete": 808000,
-    "timeToCompleteFormatted": "13 minutes"
-  },
+    "state": "reading",
+    "startedAt": "2021-06-21T13:57:27.000Z"
+  }
 ]

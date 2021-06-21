@@ -9,9 +9,9 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (0)
+### ⌛ Currently reading (1)
 
-### ✅ Completed (0)
+[![Book cover of Book Club](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DH2hQAAAAMAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/1 "Book Club by Bill Barnes, Gene Ambaum")
 
 <!--end:bookshelf-action-->
 
