@@ -9,12 +9,9 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
+### ✅ Completed (13)
 
-[![Book cover of Getting Things Done](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DWXcHwzaUd4MC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/13 "Getting Things Done by David Allen")
-
-### ✅ Completed (12)
-
+[![Book cover of Getting Things Done](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DWXcHwzaUd4MC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/13 "Getting Things Done by David Allen completed in 26 seconds on June 2021")
 [![Book cover of The Greatest Miracle in the World](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DbG0tSJDUxgcC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/12 "The Greatest Miracle in the World by Og Mandino completed in 16 seconds on June 2021")
 [![Book cover of The 7 Habits of Highly Effective People](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DupUxaNWSaRIC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/11 "The 7 Habits of Highly Effective People by Stephen R. Covey completed in 1 minute on June 2021")
 [![Book cover of The 4-hour Workweek](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DhNmODQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/10 "The 4-hour Workweek by Timothy Ferriss completed in 1 minute on June 2021")
