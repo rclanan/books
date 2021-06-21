@@ -24,8 +24,11 @@
     },
     "issueNumber": 20,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-06-21T14:09:49.000Z"
+    "state": "completed",
+    "startedAt": "2021-06-21T14:09:49.000Z",
+    "completedAt": "2021-06-21T14:10:25.000Z",
+    "timeToComplete": 36000,
+    "timeToCompleteFormatted": "36 seconds"
   },
   {
     "title": "Mindfulness in Plain English",
@@ -54,8 +57,11 @@
     },
     "issueNumber": 18,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-06-21T14:09:08.000Z"
+    "state": "completed",
+    "startedAt": "2021-06-21T14:09:08.000Z",
+    "completedAt": "2021-06-21T14:10:25.000Z",
+    "timeToComplete": 77000,
+    "timeToCompleteFormatted": "1 minute"
   },
   {
     "title": "The Confidence Gap",
