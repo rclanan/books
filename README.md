@@ -9,6 +9,11 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
+### ⌛ Currently reading (2)
+
+[![Book cover of 12 Months to $1 Million](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DuwO5DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/15 "12 Months to $1 Million by Ryan Daniel Moran")
+[![Book cover of Atomic Habits](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DXfFvDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/14 "Atomic Habits by James Clear")
+
 ### ✅ Completed (13)
 
 [![Book cover of Getting Things Done](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DWXcHwzaUd4MC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/13 "Getting Things Done by David Allen completed in 26 seconds on June 2021")
