@@ -569,35 +569,4 @@
     "timeToComplete": 286000,
     "timeToCompleteFormatted": "4 minutes"
   },
-  {
-    "title": "Book Club",
-    "authors": [
-      "Bill Barnes",
-      "Gene Ambaum"
-    ],
-    "publisher": "Overdue Media Llc",
-    "publishedDate": "2006",
-    "description": "A collection of the comic strip \"Unshelved,\" which chronicles the adventures of Dewey, Mallville Public Library's young adult librarian, and his coworkers.",
-    "image": "http://books.google.com/books/content?id=H2hQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 6,
-    "categories": [
-      "Humor"
-    ],
-    "pageCount": 120,
-    "googleBooks": {
-      "id": "H2hQAAAAMAAJ",
-      "preview": "http://books.google.com/books?id=H2hQAAAAMAAJ&q=intitle:Book+cover+of+Getting+Things+Done+by+David+Allen&dq=intitle:Book+cover+of+Getting+Things+Done+by+David+Allen&hl=&cd=7&source=gbs_api",
-      "info": "http://books.google.com/books?id=H2hQAAAAMAAJ&dq=intitle:Book+cover+of+Getting+Things+Done+by+David+Allen&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Book_Club.html?hl=&id=H2hQAAAAMAAJ"
-    },
-    "issueNumber": 1,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2021-06-21T13:57:27.000Z",
-    "completedAt": "2021-06-21T14:03:35.000Z",
-    "timeToComplete": 368000,
-    "timeToCompleteFormatted": "6 minutes"
-  }
 ]
