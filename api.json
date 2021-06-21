@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Confidence Gap",
+    "authors": [
+      "Russ Harris"
+    ],
+    "publisher": "Shambhala Publications",
+    "publishedDate": "2011-09-13",
+    "description": "Too many of us miss out on opportunities in life because we lack self-confidence. Whether it's public speaking, taking on a leadership role, or asking someone for a date, there are situations in which we just don't feel equipped to handle the challenges we face. Russ Harris offers a surprising solution to low self-confidence, shyness, and insecurity: Rather than trying to \"get over\" our fears, he says, the secret is to form a new and wiser relationship with them. Paradoxically, it's only when we stop struggling against our fearfulness that we begin to find lasting freedom from it. Drawing on the techniques of Acceptance and Commitment Therapy (ACT), a cutting-edge form of cognitive-behavioral therapy, The Confidence Gap explains how to: • Free yourself from common misconceptions about what confidence is and how to build it • Transform your relationship with fear and anxiety • Clarify your core values and use them as your inspiration and motivation • Use mindfulness to effectively handle negative thoughts and feelings.",
+    "image": "http://books.google.com/books/content?id=VPiNVJT7oj4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "un",
+    "averageRating": 4,
+    "ratingsCount": 2,
+    "categories": [
+      "Self-Help"
+    ],
+    "pageCount": 240,
+    "isbn10": "0834827662",
+    "isbn13": "9780834827660",
+    "googleBooks": {
+      "id": "VPiNVJT7oj4C",
+      "preview": "http://books.google.com/books?id=VPiNVJT7oj4C&printsec=frontcover&dq=intitle:The+Confidence+Gap+by+Russ+Harris&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=VPiNVJT7oj4C&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=VPiNVJT7oj4C"
+    },
+    "issueNumber": 17,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-06-21T14:07:45.000Z"
+  },
+  {
     "title": "Elon Musk",
     "authors": [
       "Ashlee Vance"
@@ -54,8 +83,11 @@
     },
     "issueNumber": 15,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-06-21T14:06:43.000Z"
+    "state": "completed",
+    "startedAt": "2021-06-21T14:06:43.000Z",
+    "completedAt": "2021-06-21T14:07:55.000Z",
+    "timeToComplete": 72000,
+    "timeToCompleteFormatted": "1 minute"
   },
   {
     "title": "Atomic Habits",
@@ -83,8 +115,11 @@
     },
     "issueNumber": 14,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-06-21T14:06:13.000Z"
+    "state": "completed",
+    "startedAt": "2021-06-21T14:06:13.000Z",
+    "completedAt": "2021-06-21T14:07:55.000Z",
+    "timeToComplete": 102000,
+    "timeToCompleteFormatted": "1 minute"
   },
   {
     "title": "Getting Things Done",
