@@ -1,5 +1,35 @@
 [
   {
+    "title": "1984",
+    "authors": [
+      "George Orwell",
+      "General Press"
+    ],
+    "publisher": "GENERAL PRESS",
+    "publishedDate": "2018-05-15",
+    "description": "1984, published in 1949, is a dystopian and satirical novel. It revolves around Winston Smith, who lives in a nation called Oceania, in a province called Airstrip One, which represents present-day England. This state is controlled by the Party, headed by a mysterious leader who is addressed as Emmanuel Goldstein, also known as the Big Brother. The Party watches every single move that Smith and other citizens make. The nation’s language and history is forcefully changed for the benefit of the Party. A new language, Newspeak, is being compulsively implemented to ensure works that have anything to do with political rebellion are omitted. In Oceania, even rebellious thoughts are illegal and are said to be the worst of all crimes. The people are suppressed and any form of individuality is not tolerated, including love and sex. Smith works as a low-ranking member of the Party who alters historical records. He hates the Party and thus buys an illegal diary in which he pens down his thoughts. He meets Julia, a coworker, who seems to been romantically inclined towards him. He however doubts that she is a Party spy who will get him imprisoned for his ‘thoughtcrimes’. Her love turns out to be true and they have a covert affair. Smith’s hatred for the Party grows day by day and he is convinced that a powerful Party official O’Brien is actually trying to overthrow the present government with the help of a secret group named the Brotherhood. As the story goes on, readers learn the twists and turns that life in Oceania has in store for Smith. He faces terror, betrayal, freedom, and a broken spirit. 1984 is the author’s haunting vision of the future. The book has been adapted into television programmes, films, radio broadcasts and plays. In 2003, the book was number 8 on BBC’s survey The Big Read. It was 6th and 13th on the reader’s and editor’s list of Modern Library 100 Best Novels, respectively. In 2005, it was added to the 100 Best English Language Novel from 1923 to 2005 by TIME magazine.",
+    "image": "http://books.google.com/books/content?id=brhaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "un",
+    "averageRating": 3,
+    "ratingsCount": 3,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 320,
+    "isbn10": "9387669629",
+    "isbn13": "9789387669628",
+    "googleBooks": {
+      "id": "brhaDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=brhaDwAAQBAJ&dq=intitle:1984+by+George+Orwell&hl=&cd=3&source=gbs_api",
+      "info": "http://books.google.com/books?id=brhaDwAAQBAJ&dq=intitle:1984+by+George+Orwell&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/1984.html?hl=&id=brhaDwAAQBAJ"
+    },
+    "issueNumber": 7,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-06-21T14:00:56.000Z"
+  },
+  {
     "title": "How to Win Friends and Influence People",
     "authors": [
       "Dale Carnegie"
