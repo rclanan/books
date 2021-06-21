@@ -9,8 +9,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (7)
+### ⌛ Currently reading (9)
 
+[![Book cover of Outliers](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DG_osyXN-mm0C%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/9 "Outliers by Malcolm Gladwell")
+[![Book cover of Rich Dad, Poor Dad](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DfFtNPgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/8 "Rich Dad, Poor Dad by Robert T. Kiyosaki, Sharon L. Lechter")
 [![Book cover of 1984](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DbrhaDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/7 "1984 by George Orwell, General Press")
 [![Book cover of How to Win Friends and Influence People](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D_am4DQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/6 "How to Win Friends and Influence People by Dale Carnegie")
 [![Book cover of The Design of Everyday Things](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DqBfRDQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/5 "The Design of Everyday Things by Don Norman")

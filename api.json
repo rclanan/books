@@ -1,5 +1,64 @@
 [
   {
+    "title": "Outliers",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2008-11-18",
+    "description": "A brilliant new book from the bestselling author of The Tipping Point and Blink Why are people successful? For centuries, humankind has grappled with this question, searching for the secret to accomplishing great things. In this stunning new book, Malcolm Gladwell takes us on an invigorating intellectual journey to show us what makes an extreme overachiever. He reveals that we pay far too much attention to what successful people are like, and too little attention to where successful people are from: their culture, their family, and their generation. Gladwell examines how the careers of Bill Gates and the performance of world-class football players are alike; what top fighter pilots and The Beatles have in common; why so many top lawyers are Jewish; why Asians are good at maths; and why it is correct to say that the mathematician who solved Fermat's Theorem is not a genius. Just as he did in Blink, Gladwell overturns many of our conventional notions and creates an entirely new model for seeing the world. Brilliant and entertaining, this is a landmark work that will simultaneously delight and illuminate.",
+    "image": "http://books.google.com/books/content?id=G_osyXN-mm0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "un",
+    "averageRating": 3.5,
+    "ratingsCount": 4211,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 320,
+    "isbn10": "0141036257",
+    "isbn13": "9780141036250",
+    "googleBooks": {
+      "id": "G_osyXN-mm0C",
+      "preview": "http://books.google.com/books?id=G_osyXN-mm0C&dq=intitle:Outliers+by+Malcolm+Gladwell&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=G_osyXN-mm0C&dq=intitle:Outliers+by+Malcolm+Gladwell&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Outliers.html?hl=&id=G_osyXN-mm0C"
+    },
+    "issueNumber": 9,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-06-21T14:01:42.000Z"
+  },
+  {
+    "title": "Rich Dad, Poor Dad",
+    "authors": [
+      "Robert T. Kiyosaki",
+      "Sharon L. Lechter"
+    ],
+    "publisher": "Running PressBook Pub",
+    "publishedDate": "2009-03",
+    "description": "Argues that a good education and a secure job are not guarantees for financial success, and describes six guidelines for making money work for oneself.",
+    "image": "http://books.google.com/books/content?id=fFtNPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "un",
+    "averageRating": 3.5,
+    "ratingsCount": 3386,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 126,
+    "isbn10": "0762434279",
+    "isbn13": "9780762434275",
+    "googleBooks": {
+      "id": "fFtNPgAACAAJ",
+      "preview": "http://books.google.com/books?id=fFtNPgAACAAJ&dq=intitle:Rich+Dad,+Poor+Dad+by+Robert+Kiyosaki+and+Sharon+Lechter&hl=&cd=4&source=gbs_api",
+      "info": "http://books.google.com/books?id=fFtNPgAACAAJ&dq=intitle:Rich+Dad,+Poor+Dad+by+Robert+Kiyosaki+and+Sharon+Lechter&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Rich_Dad_Poor_Dad.html?hl=&id=fFtNPgAACAAJ"
+    },
+    "issueNumber": 8,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-06-21T14:01:17.000Z"
+  },
+  {
     "title": "1984",
     "authors": [
       "George Orwell",
