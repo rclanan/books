@@ -1,5 +1,35 @@
 [
   {
+    "title": "Zero to One",
+    "authors": [
+      "Peter Thiel",
+      "Blake Masters"
+    ],
+    "publisher": "Virgin Books",
+    "publishedDate": "2015-06-01",
+    "description": "WHAT VALUABLE COMPANY IS NOBODY BUILDING? The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin wonâe(tm)t make a search engine. If you are copying these guys, you arenâe(tm)t learning from them. Itâe(tm)s easier to copy a model than to make something new: doing what we already know how to do takes the world from 1 to n, adding more of something familiar. Every new creation goes from 0 to 1. This book is about how to get there. âe~Peter Thiel has built multiple breakthrough companies, and Zero to One shows how.âe(tm) ELON MUSK, CEO of SpaceX and Tesla âe~This book delivers completely new and refreshing ideas on how to create value in the world.âe(tm) MARK ZUCKERBERG, CEO of Facebook âe~When a risk taker writes a book, read it. In the case of Peter Thiel, read it twice. Or, to be safe, three times. This is a classic.âe(tm) NASSIM NICHOLAS TALEB, author of The Black Swan",
+    "image": "http://books.google.com/books/content?id=6FyxoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "un",
+    "averageRating": 4,
+    "ratingsCount": 2791,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 210,
+    "isbn10": "0753555204",
+    "isbn13": "9780753555200",
+    "googleBooks": {
+      "id": "6FyxoQEACAAJ",
+      "preview": "http://books.google.com/books?id=6FyxoQEACAAJ&dq=intitle:Zero+to+One+by+Blake+Masters+and+Peter+Thiel&hl=&cd=3&source=gbs_api",
+      "info": "http://books.google.com/books?id=6FyxoQEACAAJ&dq=intitle:Zero+to+One+by+Blake+Masters+and+Peter+Thiel&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Zero_to_One.html?hl=&id=6FyxoQEACAAJ"
+    },
+    "issueNumber": 3,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-06-21T13:59:26.000Z"
+  },
+  {
     "title": "Tuesdays with Morrie",
     "authors": [
       "Mitch Albom"

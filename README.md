@@ -9,8 +9,9 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (2)
+### ⌛ Currently reading (3)
 
+[![Book cover of Zero to One](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D6FyxoQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/3 "Zero to One by Peter Thiel, Blake Masters")
 [![Book cover of Tuesdays with Morrie](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dz2z_6hLoPmgC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/2 "Tuesdays with Morrie by Mitch Albom")
 [![Book cover of Book Club](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DH2hQAAAAMAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/1 "Book Club by Bill Barnes, Gene Ambaum")
 
