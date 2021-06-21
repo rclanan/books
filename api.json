@@ -1,5 +1,35 @@
 [
   {
+    "title": "Think and Grow Rich",
+    "authors": [
+      "Napoleon Hill",
+      "Arthur R. Pell"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2005",
+    "description": "An updated edition of the best-selling guide features anecdotes about such modern figures as Bill Gates, Dave Thomas, and Sir John Templeton, explaining how their examples can enable modern readers to pursue wealth and overcome personal stumbling blocks. Original. 30,000 first printing.",
+    "image": "http://books.google.com/books/content?id=HO-cnF0abjgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "un",
+    "averageRating": 4,
+    "ratingsCount": 27,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 302,
+    "isbn10": "1585424331",
+    "isbn13": "9781585424337",
+    "googleBooks": {
+      "id": "HO-cnF0abjgC",
+      "preview": "http://books.google.com/books?id=HO-cnF0abjgC&printsec=frontcover&dq=intitle:Think+and+Grow+Rich+by+Napoleon+Hill&hl=&cd=5&source=gbs_api",
+      "info": "http://books.google.com/books?id=HO-cnF0abjgC&dq=intitle:Think+and+Grow+Rich+by+Napoleon+Hill&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Think_and_Grow_Rich.html?hl=&id=HO-cnF0abjgC"
+    },
+    "issueNumber": 4,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-06-21T14:00:00.000Z"
+  },
+  {
     "title": "Zero to One",
     "authors": [
       "Peter Thiel",
