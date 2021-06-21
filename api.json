@@ -1,5 +1,34 @@
 [
   {
+    "title": "Elon Musk",
+    "authors": [
+      "Ashlee Vance"
+    ],
+    "publisher": "Harper Collins",
+    "publishedDate": "2015-05-19",
+    "description": "In the spirit of Steve Jobs and Moneyball, Elon Musk is both an illuminating and authorized look at the extraordinary life of one of Silicon Valley’s most exciting, unpredictable, and ambitious entrepreneurs—a real-life Tony Stark—and a fascinating exploration of the renewal of American invention and its new “makers.” Elon Musk spotlights the technology and vision of Elon Musk, the renowned entrepreneur and innovator behind SpaceX, Tesla, and SolarCity, who sold one of his Internet companies, PayPal, for $1.5 billion. Ashlee Vance captures the full spectacle and arc of the genius’s life and work, from his tumultuous upbringing in South Africa and flight to the United States to his dramatic technical innovations and entrepreneurial pursuits. Vance uses Musk’s story to explore one of the pressing questions of our age: can the nation of inventors and creators who led the modern world for a century still compete in an age of fierce global competition? He argues that Musk—one of the most unusual and striking figures in American business history—is a contemporary, visionary amalgam of legendary inventors and industrialists including Thomas Edison, Henry Ford, Howard Hughes, and Steve Jobs. More than any other entrepreneur today, Musk has dedicated his energies and his own vast fortune to inventing a future that is as rich and far-reaching as the visionaries of the golden age of science-fiction fantasy. Thorough and insightful, Elon Musk brings to life a technology industry that is rapidly and dramatically changing by examining the life of one of its most powerful and influential titans.",
+    "image": "http://books.google.com/books/content?id=Yd99BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "un",
+    "averageRating": 4,
+    "ratingsCount": 22,
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 416,
+    "isbn10": "0062301268",
+    "isbn13": "9780062301260",
+    "googleBooks": {
+      "id": "Yd99BAAAQBAJ",
+      "preview": "http://books.google.com/books?id=Yd99BAAAQBAJ&printsec=frontcover&dq=intitle:Elon+musk+by+Ashlee+Vance&hl=&cd=2&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=Yd99BAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=Yd99BAAAQBAJ"
+    },
+    "issueNumber": 16,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-06-21T14:07:02.000Z"
+  },
+  {
     "title": "12 Months to $1 Million",
     "authors": [
       "Ryan Daniel Moran"
