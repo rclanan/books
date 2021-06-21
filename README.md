@@ -9,6 +9,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
+### ⌛ Currently reading (1)
+
+[![Book cover of Getting Things Done](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DWXcHwzaUd4MC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/13 "Getting Things Done by David Allen")
+
 ### ✅ Completed (12)
 
 [![Book cover of The Greatest Miracle in the World](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DbG0tSJDUxgcC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/12 "The Greatest Miracle in the World by Og Mandino completed in 16 seconds on June 2021")
@@ -22,6 +26,7 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of Think and Grow Rich](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DHO-cnF0abjgC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/4 "Think and Grow Rich by Napoleon Hill, Arthur R. Pell completed in 3 minutes on June 2021")
 [![Book cover of Zero to One](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D6FyxoQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/3 "Zero to One by Peter Thiel, Blake Masters completed in 4 minutes on June 2021")
 [![Book cover of Tuesdays with Morrie](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dz2z_6hLoPmgC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/2 "Tuesdays with Morrie by Mitch Albom completed in 4 minutes on June 2021")
+[![Book cover of Book Club](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DH2hQAAAAMAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/rclanan/books/issues/1 "Book Club by Bill Barnes, Gene Ambaum completed in 6 minutes on June 2021")
 
 <!--end:bookshelf-action-->
 
