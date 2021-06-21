@@ -9,9 +9,9 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (2)
+### ⌛ Currently reading (0)
 
-### ✅ Completed (22)
+### ✅ Completed (0)
 
 <!--end:bookshelf-action-->
 
