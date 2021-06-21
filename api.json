@@ -1,5 +1,34 @@
 [
   {
+    "title": "The 4-hour Workweek",
+    "authors": [
+      "Timothy Ferriss"
+    ],
+    "publisher": "Harmony",
+    "publishedDate": "2009",
+    "description": "An edition expanded with more than 100 pages of new content offers a blueprint for a better life, whether one's dream is escaping the rat race, experiencing high-end world travel, earning a monthly five-figure income with zero management or just living more and working less.",
+    "image": "http://books.google.com/books/content?id=hNmODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "un",
+    "averageRating": 3.5,
+    "ratingsCount": 44,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 396,
+    "isbn10": "0307465357",
+    "isbn13": "9780307465351",
+    "googleBooks": {
+      "id": "hNmODQAAQBAJ",
+      "preview": "http://books.google.com/books?id=hNmODQAAQBAJ&printsec=frontcover&dq=intitle:The+4-Hour+Workweek+by+Tim+Ferriss&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=hNmODQAAQBAJ&dq=intitle:The+4-Hour+Workweek+by+Tim+Ferriss&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_4_hour_Workweek.html?hl=&id=hNmODQAAQBAJ"
+    },
+    "issueNumber": 10,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-06-21T14:02:18.000Z"
+  },
+  {
     "title": "Outliers",
     "authors": [
       "Malcolm Gladwell"
